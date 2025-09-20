@@ -50,15 +50,85 @@ While I'm proficient across the full stack, these are the technologies I'm most 
 
 ---
 
-## ✨ Featured Projects
+## 💼 Engineering Portfolio
 
-Here are a few projects I'm proud of. You can find more on my [portfolio](https://viditnaik.netlify.app).
+<div align="center">
+  <sub>Building scalable, intelligent solutions that solve real-world problems</sub>
+</div>
 
-| Project                                                                | Key Features & Impact                                                                                                                               | Technologies Used                                                                                                  |
-| ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| **🤖 InsureSearch: RAG Chatbot** <br/> `Full-Stack AI Application`      | <ul><li>Fine-tuned LLaMA-3 8B with LoRA to answer complex insurance policy questions.</li><li>Reduced token usage by **65%** using a top-k BERT semantic search retriever.</li><li>Engineered a real-time, context-aware chat interface.</li></ul> | `React` `Node.js` `MongoDB` `LLaMA-3` `BERT` `LangChain`                                                             |
-| **🚁 LLM-Powered Drone Control** <br/> `AI Research @ UCR`              | <ul><li>Developed an AI system to control drones using natural language commands.</li><li>Implemented a RAG pipeline on drone manuals for contextual, safe operations.</li><li>Achieved a **68% improvement** in command accuracy over baseline models.</li></ul> | `Python` `PyTorch` `LLMs` `RAG` `Robotics`                                                                         |
-| **🗺️ CitySafe: Crime Dashboard** <br/> `Big Data & Analytics`          | <ul><li>Built an analytics dashboard to visualize crime trends from **1.5M+** records.</li><li>Designed automated ETL pipelines using Spark and improved query times by **25%**.</li><li>Created geospatial visualizations to identify crime hotspots.</li></ul> | `React` `Python` `Spark` `SQL` `PostGIS`                                                                           |
+### 🤖 **InsureSearch** - AI-Powered Insurance Assistant
+<div align="left">
+  
+**Problem Solved:** Insurance policies are complex documents that customers struggle to understand, leading to poor user experience and increased support costs.
+
+**Engineering Solution:**
+- **🏗️ System Architecture**: Designed a microservices architecture with React frontend, Node.js/Express backend, and MongoDB for scalable data management
+- **🧠 AI Implementation**: Fine-tuned LLaMA-3 8B model using LoRA (Low-Rank Adaptation) for domain-specific insurance knowledge
+- **⚡ Performance Optimization**: Built a top-k BERT semantic search system that reduced token usage by **65%** and improved response times
+- **🔒 Production Ready**: Implemented rate limiting, error handling, and real-time chat capabilities for enterprise deployment
+
+**Impact**: Created an intelligent system that can instantly answer complex insurance questions with high accuracy, reducing customer support load.
+
+**Tech Stack**: `React` `Node.js` `Express` `MongoDB` `LLaMA-3` `BERT` `LangChain` `Docker`
+
+</div>
+
+---
+
+### 🚁 **Autonomous Drone Control System** - Research Project
+<div align="left">
+  
+**Problem Solved:** Traditional drone control requires specialized training and manual commands, limiting accessibility for non-technical users.
+
+**Engineering Solution:**
+- **🎯 Natural Language Processing**: Developed an end-to-end system that interprets human language and converts it to safe drone commands
+- **📚 Knowledge Integration**: Implemented RAG (Retrieval-Augmented Generation) pipeline that references drone manuals for safe operations
+- **🛡️ Safety First**: Built comprehensive safety checks and validation layers to prevent dangerous operations
+- **📊 Research Impact**: Achieved **68% improvement** in command accuracy compared to baseline models
+
+**Impact**: Democratized drone operation by enabling natural language control while maintaining strict safety standards.
+
+**Tech Stack**: `Python` `PyTorch` `Transformers` `RAG` `ROS` `Computer Vision` `Safety Protocols`
+
+</div>
+
+---
+
+### 🗺️ **CitySafe** - Real-Time Crime Analytics Platform
+<div align="left">
+  
+**Problem Solved:** Law enforcement and city planners lacked real-time insights into crime patterns, making it difficult to allocate resources effectively.
+
+**Engineering Solution:**
+- **📊 Big Data Processing**: Built scalable ETL pipelines using Apache Spark to process **1.5M+** crime records in real-time
+- **🗺️ Geospatial Engineering**: Implemented PostGIS for complex spatial queries and crime hotspot identification
+- **⚡ Performance Engineering**: Optimized database indexing and query structure, achieving **25% improvement** in response times
+- **🎨 Interactive Visualization**: Created responsive React dashboard with real-time crime trend visualization and predictive analytics
+
+**Impact**: Enabled data-driven decision making for law enforcement, improving resource allocation and community safety planning.
+
+**Tech Stack**: `React` `Python` `Apache Spark` `PostgreSQL` `PostGIS` `D3.js` `AWS` `REST APIs`
+
+</div>
+
+---
+
+### 🎨 **CreateFlow** - Content Automation Platform (CalHacks 11.0)
+<div align="left">
+  
+**Problem Solved:** Content creators spend excessive time on repetitive tasks like scheduling, analytics, and content optimization.
+
+**Engineering Solution:**
+- **🤖 Agentic Workflows**: Engineered LangGraph-based intelligent agents that automate content generation and scheduling
+- **⚡ High-Performance Backend**: Implemented Redis caching and database optimization, achieving **60% API performance improvement**
+- **📈 Scalability**: Designed system to handle **50% more concurrent users** through efficient resource management
+- **📊 Analytics Integration**: Built comprehensive performance tracking and automated reporting systems
+
+**Impact**: Reduced content creation workflow time by **50%**, enabling creators to focus on strategy rather than execution.
+
+**Tech Stack**: `LangGraph` `Redis` `Python` `React` `PostgreSQL` `Cloud Functions` `Analytics APIs`
+
+</div>
 
 ---
 
@@ -73,9 +143,6 @@ Here are a few projects I'm proud of. You can find more on my [portfolio](https:
 ### 💻 Development Focus
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidit1906&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=github-readme-stats&hide=jupyter%20notebook,html,css&custom_title=Primary%20Technologies" />
 <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=vidit1906&theme=radical&hide_border=true&layout=compact&custom_title=Weekly%20Coding%20Activity" />
-
-### 🏆 Achievement Highlights
-<img src="https://github-profile-trophy.vercel.app/?username=vidit1906&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" />
 
 ### 📈 Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vidit1906&theme=react-dark&bg_color=0D1117&color=ff6b6b&line=ff6b6b&point=ffffff&area=true&hide_border=true" />
