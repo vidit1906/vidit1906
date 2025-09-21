@@ -132,30 +132,54 @@ While I'm proficient across the full stack, these are the technologies I'm most 
 
 ---
 
-## 📊 GitHub Analytics & Impact
+## 📊 GitHub Analytics
 
-<div align="center">
+<table align="center" width="100%">
+  <tr align="center">
+    <td width="50%" valign="top">
+      <h3 align="center">💻 Core Contributions</h3>
+      <p align="center">
+        <img width="95%" src="https://github-readme-stats.vercel.app/api?username=vidit1906&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=prs&custom_title=GitHub%20Stats" alt="Vidit's GitHub Stats" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔥 Activity & Languages</h3>
+      <p align="center">
+        <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=vidit1906&theme=tokyonight&hide_border=true" alt="Vidit's GitHub Streak" />
+      </p>
+      <p align="center">
+        <img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidit1906&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=github-readme-stats&hide=jupyter%20notebook,html,css&custom_title=Top%20Languages" alt="Vidit's Top Languages" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-### 🔥 Contribution Overview
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=vidit1906&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide=prs&custom_title=GitHub%20Statistics&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vidit1906&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ff6b6b" />
+<br>
 
-### 💻 Development Focus
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidit1906&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=github-readme-stats&hide=jupyter%20notebook,html,css&custom_title=Primary%20Technologies" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=vidit1906&theme=radical&hide_border=true&layout=compact&custom_title=Weekly%20Coding%20Activity" />
+<h3 align="center">📈 Contribution Graph</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vidit1906&theme=react-dark&bg_color=1A1B27&color=79E3B4&line=79E3B4&point=FFFFFF&area=true&hide_border=true" alt="Vidit's Contribution Graph" />
+</p>
 
-### 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vidit1906&theme=react-dark&bg_color=0D1117&color=ff6b6b&line=ff6b6b&point=ffffff&area=true&hide_border=true" />
+<br>
 
-### 🎯 Key Metrics
-<div align="center">
-  <img src="https://img.shields.io/badge/Total%20Commits-1000+-ff6b6b?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%2FML%20Projects-15+-00D9FF?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full%20Stack%20Apps-10+-4CAF50?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Research%20Papers-3+-FF9800?style=for-the-badge&logo=googlescholar&logoColor=white" />
-</div>
-
-</div>
+<h3 align="center">🎯 Project & Impact Summary</h3>
+<table align="center" style="width:80%; border: none; margin-left:auto; margin-right:auto;">
+  <tr align="center">
+    <td style="border: none;">
+      <img src="https://img.shields.io/badge/AI%2FML%20Projects-15+-00D9FF?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI/ML Projects" />
+    </td>
+    <td style="border: none;">
+      <img src="https://img.shields.io/badge/Full%20Stack%20Apps-10+-4CAF50?style=for-the-badge&logo=javascript&logoColor=white" alt="Full Stack Apps" />
+    </td>
+    <td style="border: none;">
+      <img src="https://img.shields.io/badge/Total%20Commits-1000+-ff6b6b?style=for-the-badge&logo=git&logoColor=white" alt="Total Commits" />
+    </td>
+    <td style="border: none;">
+      <img src="https://img.shields.io/badge/Research%20Papers-3+-FF9800?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Research Papers" />
+    </td>
+  </tr>
+</table>
 
 ---
 
